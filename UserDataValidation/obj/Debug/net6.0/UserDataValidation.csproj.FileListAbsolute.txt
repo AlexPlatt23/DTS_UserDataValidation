@@ -1,0 +1,12 @@
+C:\Users\gogow\Documents\Code\ILLY DTS\UserDataValidation\bin\Debug\net6.0\UserDataValidation.deps.json
+C:\Users\gogow\Documents\Code\ILLY DTS\UserDataValidation\bin\Debug\net6.0\UserDataValidation.dll
+C:\Users\gogow\Documents\Code\ILLY DTS\UserDataValidation\bin\Debug\net6.0\UserDataValidation.pdb
+C:\Users\gogow\Documents\Code\ILLY DTS\UserDataValidation\obj\Debug\net6.0\UserDataValidation.csproj.AssemblyReference.cache
+C:\Users\gogow\Documents\Code\ILLY DTS\UserDataValidation\obj\Debug\net6.0\UserDataValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogow\Documents\Code\ILLY DTS\UserDataValidation\obj\Debug\net6.0\UserDataValidation.AssemblyInfoInputs.cache
+C:\Users\gogow\Documents\Code\ILLY DTS\UserDataValidation\obj\Debug\net6.0\UserDataValidation.AssemblyInfo.cs
+C:\Users\gogow\Documents\Code\ILLY DTS\UserDataValidation\obj\Debug\net6.0\UserDataValidation.csproj.CoreCompileInputs.cache
+C:\Users\gogow\Documents\Code\ILLY DTS\UserDataValidation\obj\Debug\net6.0\UserDataValidation.dll
+C:\Users\gogow\Documents\Code\ILLY DTS\UserDataValidation\obj\Debug\net6.0\refint\UserDataValidation.dll
+C:\Users\gogow\Documents\Code\ILLY DTS\UserDataValidation\obj\Debug\net6.0\UserDataValidation.pdb
+C:\Users\gogow\Documents\Code\ILLY DTS\UserDataValidation\obj\Debug\net6.0\ref\UserDataValidation.dll
